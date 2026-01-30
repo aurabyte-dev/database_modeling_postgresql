@@ -49,7 +49,7 @@ This project implements a database design for YrkesCo, a vocational education pr
    docker exec -i postgres psql -U postgres -d myh_db < sql/seed-data.sql
 ```
 
-- To interact with the database:
+To interact with the database:
 ```bash
 docker exec -it postgres psql -U postgres -d myh_db
 ```
