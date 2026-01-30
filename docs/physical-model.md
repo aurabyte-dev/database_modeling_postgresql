@@ -3,9 +3,8 @@
 ## Overview
 The physical model implements the logical model in PostgreSQL with specific data types, constraints, and indexes.
 
-![Physical ERD](models/physical-erd.png)
+![Physical ERD](models/physical-model.png)
 
-## Database: PostgreSQL
 
 ## Constraints
 

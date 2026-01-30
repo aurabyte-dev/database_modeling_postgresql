@@ -4,7 +4,7 @@
 The logical model adds attributes, keys, and preliminary data types to the conceptual model. Many-to-many relationships are resolved using bridge tables.
 
 ## Logical ERD
-![Logical ERD](models/logical-erd.png)
+![Logical ERD](models/logical-model.png)
 
 ## Key Design Decisions
 - Surrogate keys used for all primary keys
